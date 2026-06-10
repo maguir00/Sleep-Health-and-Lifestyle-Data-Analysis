@@ -1,0 +1,16 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+4.0,Male,28.0,Sales Representative,5.9,4.0,30.0,8.0,Obese,140/90,85.0,3000.0,Sleep Apnea
+5.0,Male,28.0,Sales Representative,5.9,4.0,30.0,8.0,Obese,140/90,85.0,3000.0,Sleep Apnea
+6.0,Male,28.0,Software Engineer,5.9,4.0,30.0,8.0,Obese,140/90,85.0,3000.0,Insomnia
+7.0,Male,29.0,Teacher,6.3,6.0,40.0,7.0,Obese,140/90,82.0,3500.0,Insomnia
+17.0,Female,29.0,Nurse,6.5,5.0,40.0,7.0,Normal Weight,132/87,80.0,4000.0,Sleep Apnea
+19.0,Female,29.0,Nurse,6.5,5.0,40.0,7.0,Normal Weight,132/87,80.0,4000.0,Insomnia
+81.0,Female,34.0,Scientist,5.8,4.0,32.0,8.0,Overweight,131/86,81.0,5200.0,Sleep Apnea
+82.0,Female,34.0,Scientist,5.8,4.0,32.0,8.0,Overweight,131/86,81.0,5200.0,Sleep Apnea
+94.0,Male,35.0,Lawyer,7.4,7.0,60.0,5.0,Obese,135/88,84.0,3300.0,Sleep Apnea
+146.0,Female,38.0,Lawyer,7.4,7.0,60.0,5.0,Obese,135/88,84.0,3300.0,Sleep Apnea
+148.0,Male,39.0,Engineer,6.5,5.0,40.0,7.0,Overweight,132/87,80.0,4000.0,Insomnia
+265.0,Male,48.0,Doctor,7.3,7.0,65.0,5.0,Obese,142/92,83.0,3500.0,Insomnia
+267.0,Male,48.0,Doctor,7.3,7.0,65.0,5.0,Obese,142/92,83.0,3500.0,Insomnia
+277.0,Male,49.0,Doctor,8.1,9.0,85.0,3.0,Obese,139/91,86.0,3700.0,Sleep Apnea
+278.0,Male,49.0,Doctor,8.1,9.0,85.0,3.0,Obese,139/91,86.0,3700.0,Sleep Apnea
